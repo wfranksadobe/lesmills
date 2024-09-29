@@ -1,6 +1,6 @@
 {
-    "project": "SecurBank",
-    "host": "www.securbankdemo.com",
+    "project": "Les Mills",
+    "host": "main--lesmills--wfranksadobe.aem.live",
     "plugins": [
         {
           "id": "library",
